@@ -42,7 +42,7 @@ fair-pcm/
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/arnab37seal/fair-pcm>
 cd fair-pcm
 pip install -r requirements.txt
 pip install -e .
