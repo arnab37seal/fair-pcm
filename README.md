@@ -1,7 +1,6 @@
 # Fair-PCM
 
-Fair Possibilistic C-Means (Fair-PCM) — a fairness-regularized variant of
-possibilistic c-means clustering.
+Fair Possibilistic C-Means (F-PCM) — a fairness-regularized variant of possibilistic c-means clustering.
 
 ## Objective
 
